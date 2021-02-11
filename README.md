@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Edit made for comparing tutorial
 Add made for comparing tutorial
 Another edit made for comparison tutorial
+
+### Copyright
+
+2014 Git.Training
