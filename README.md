@@ -12,6 +12,11 @@ Edit made for comparing tutorial
 Add made for comparing tutorial
 Another edit made for comparison tutorial
 
+### How TO Contribute
+
+Please fork this repository and then issue Pull Requests
+for review.
+
 ### Copyright
 
 2014 Git.Training
